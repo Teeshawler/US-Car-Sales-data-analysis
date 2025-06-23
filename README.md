@@ -23,4 +23,4 @@ This project analyzes a U.S.-based car sales dataset to uncover trends, predict 
 - Enabled data-driven inventory planning and marketing decisions
 
 ## 🔗 Dashboard
-You can download or preview the Power BI dashboard file in this repo: `dashboard.pbix`
+You can download or preview the Power BI dashboard file in this repo: https://drive.google.com/file/d/1VdvG0weWlJDy0nl-EimXuk4FZnHQsaW-/view?usp=drive_link
